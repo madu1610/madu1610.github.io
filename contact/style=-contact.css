@@ -9,7 +9,6 @@ body{
     margin: 20px;
     background-color: #f6f4f3;
     color: #484f23;
-    font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -89,7 +88,6 @@ input[type=submit]:hover {
 }
 .row{
     display: flex;
-    flex-wrap: wrap;
 }
 
 ul{
